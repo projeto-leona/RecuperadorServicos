@@ -15,5 +15,5 @@ import br.leona.hardware.model.Servico;
 public interface RecuperadorServico {   
      
     abstract Servico getServico();
-       
+    
 }

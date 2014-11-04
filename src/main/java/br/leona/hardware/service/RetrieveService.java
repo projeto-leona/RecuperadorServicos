@@ -6,14 +6,14 @@
 
 package br.leona.hardware.service;
 
-import br.leona.hardware.model.Servico;
+import br.leona.hardware.model.Service;
 
 /**
  *
  * @author Jean Negrão
  */
-public interface RecuperadorServico {   
+public interface RetrieveService {   
      
-    abstract Servico getServico();
+    abstract Service getService();
     
 }

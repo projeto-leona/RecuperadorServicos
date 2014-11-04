@@ -4,7 +4,7 @@ package br.leona.hardware.model;
  *
  * @author Jean Negrão
  */
-public class Servico {
+public class Service {
     
     private String nome;
     private String status;

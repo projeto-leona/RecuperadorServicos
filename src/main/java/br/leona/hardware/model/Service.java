@@ -6,15 +6,15 @@ package br.leona.hardware.model;
  */
 public class Service {
     
-    private String nome;
+    private String name;
     private String status;
 
-    public String getNome() {
-        return nome;
+    public String getName() {
+        return name;
     }
 
-    public void setNome(String nome) {
-        this.nome = nome;
+    public void setName(String name) {
+        this.name = name;
     }
 
     public String getStatus() {

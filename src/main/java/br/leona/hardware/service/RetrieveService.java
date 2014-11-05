@@ -12,8 +12,6 @@ import br.leona.hardware.model.Service;
  *
  * @author Jean Negrão
  */
-public interface RetrieveService {   
-     
+public interface RetrieveService {        
     abstract Service getService();
-    
 }

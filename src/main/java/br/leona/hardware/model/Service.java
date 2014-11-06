@@ -2,7 +2,7 @@ package br.leona.hardware.model;
 
 /**
  *
- * @author Jean Negrão
+ * @author Admin_2
  */
 public class Service {
     
